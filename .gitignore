@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Uploaded files
+backend/uploads/
+
+# Database dumps and local dev db
+*.db
+dump_*.sql
+
+# Python venv
+.venv/
+
+# Diploma materials (not project code)
+diploma/
+*.docx
+
+# Misc
+admin
+frontend/src_backup_20260613/
+
+# Deployment scripts/configs (contain server IP, SSH user)
+deploy/
