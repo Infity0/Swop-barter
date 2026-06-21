@@ -6,7 +6,7 @@
 
 **Backend**
 - NestJS + TypeScript
-- MySQL 8.0 / TypeORM (поддерживаются также PostgreSQL и SQLite)
+- MySQL 8.0 / TypeORM 
 - JWT (access + refresh токены)
 - Socket.IO (WebSocket-чат в реальном времени)
 - Swagger / OpenAPI
