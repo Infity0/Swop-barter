@@ -54,10 +54,6 @@ npm install
 npm run dev
 ```
 
-После запуска:
-- Фронтенд — http://localhost:5173
-- API — http://localhost:3001/api
-- Swagger-документация — http://localhost:3001/api/docs
 
 ## Переменные окружения
 
